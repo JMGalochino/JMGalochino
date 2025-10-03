@@ -2,7 +2,8 @@
 
 ![BSBA Student](https://img.shields.io/badge/BSBA%20Student-Operations%20Management-blue)  
 ![JMJ Electrical & Rice Retailing](https://img.shields.io/badge/JMJ%20Electrical%20&%20Rice%20Retailing-%F0%9F%92%A1🌾-yellowgreen)  
-![Dunkin’ Donuts](https://img.shields.io/badge/Dunkin’%20Donuts-KSA-orange)
+![Dunkin’ Donuts](https://img.shields.io/badge/Dunkin’%20Donuts-KSA-orange)  
+![Profile Views](https://komarev.com/ghpvc/?username=JMGalochino&label=Profile%20Views&color=blue&style=flat)  
 
 ---
 
@@ -36,6 +37,7 @@ I balance studies, overseas work, and entrepreneurship.
 ## 📈 GitHub Stats  
 ![JM’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JMGalochino&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMGalochino&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JMGalochino&theme=tokyonight)  
 
 ---
 
