@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Jhon Mark Galochino  
 
-<!--
-**JMGalochino/JMGalochino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSBA OM Student (ETEEAP Program)**  
+💼 Brew Master at **Dunkin’ Donuts KSA**  
+🏪 Entrepreneur at **JMJ Electrical & Rice Retailing (La Union, PH)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I balance studies, overseas work, and entrepreneurship.  
+- Passionate about **business operations, strategy, and digital tools**  
+- Applying classroom knowledge directly to our **family business (JMJ)**  
+- Exploring ways to grow small enterprises through innovation  
+
+---
+
+## 🌐 Links
+- 🌎 [Personal Website / Portfolio](https://sites.google.com/view/jhon-mark-galochino)  
+- ✉️ Email: [jhonmarkgalex68@gmail.com](mailto:jhonmarkgalex68@gmail.com)  
+
+---
+
+## 📌 Featured Works
+- 📊 **Strategic Plan Presentation** – JMJ Electrical & Rice Retailing  
+- 🧑‍🤝‍🧑 **Human Resource Plan** – Inspired by Dunkin’ best practices  
+- 🌍 **International Business & Trade Projects** – Academic outputs  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JMGalochino&show_icons=true&theme=radical)  
+
+---
+
+✨ *“Dream big, start small, stay consistent.”*
