@@ -7,8 +7,8 @@
 ---
 
 🎓 **BSBA OM Student (ETEEAP Program)**  
-💼 Brew Master at **Dunkin’ Donuts KSA**  
 🏪 Entrepreneur at **JMJ Electrical & Rice Retailing (La Union, PH)**  
+💼 Brew Master at **Dunkin’ Donuts KSA**
 
 ---
 
