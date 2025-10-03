@@ -35,3 +35,9 @@ I balance studies, overseas work, and entrepreneurship.
 
 ## 📈 GitHub Stats  
 ![JM’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JMGalochino&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMGalochino&layout=compact&theme=tokyonight)  
+
+---
+
+## 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=JMGalochino&theme=onedark&row=1&column=6)  
