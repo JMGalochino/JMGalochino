@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Jhon Mark Galochino  
 
+![BSBA Student](https://img.shields.io/badge/BSBA%20Student-Operations%20Management-blue)  
+![Entrepreneur](https://img.shields.io/badge/Entrepreneur-JMJ%20Electrical%20&%20Rice%20Retailing-green)  
+![Brew Master](https://img.shields.io/badge/Dunkin'%20Donuts-KSA-orange)  
+
+---
+
 🎓 **BSBA OM Student (ETEEAP Program)**  
 💼 Brew Master at **Dunkin’ Donuts KSA**  
 🏪 Entrepreneur at **JMJ Electrical & Rice Retailing (La Union, PH)**  
