@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Banner.png" alt="Jhon Mark Galochino Banner" width="100%" />
+</p>
+
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #FF6600, #FFBB33, #00C9A7); border-radius: 2px;">
+
+<p align="center">
+  <em>“Turning passion into purpose with combining business, creativity, and technology.”</em>
+</p>
+
 # 👋 Hi, I'm Jhon Mark Galochino  
 
 ![BSBA Student](https://img.shields.io/badge/BSBA%20Student-Operations%20Management-blue)  
