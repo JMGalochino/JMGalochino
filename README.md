@@ -8,7 +8,8 @@
   <em>“Turning passion into purpose with combining business, creativity, and technology.”</em>
 </p>
 
-# 👋 Hi, I'm Jhon Mark Galochino  
+# 👋 Welcome to my profile  
+_BSBA OM Student • Entrepreneur • Brew Master_
 
 ![BSBA Student](https://img.shields.io/badge/BSBA%20Student-Operations%20Management-blue)  
 ![JMJ Electrical & Rice Retailing](https://img.shields.io/badge/JMJ%20Electrical%20&%20Rice%20Retailing-%F0%9F%92%A1🌾-yellowgreen)  
