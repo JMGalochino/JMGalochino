@@ -27,14 +27,22 @@ I balance studies, overseas work, and entrepreneurship.
 
 **Passionate about:**  
 - Business operations, strategy, and digital tools  
-- Applying classroom knowledge directly to our **family business (JMJ)**  
-- Exploring ways to grow small enterprises through innovation  
+- Turning my BSBA learnings into practical strategies for our **family business (JMJ)**  
+- Exploring ways to grow small enterprises through innovation 
+
+---
+
+## 💼 Tech & Tools I Use  
+![HTML](https://img.shields.io/badge/HTML-FF5722?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2965F1?logo=css3&logoColor=white) 
+![Google Sites](https://img.shields.io/badge/Google%20Sites-4285F4?logo=googlesites&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-161b22?logo=github&logoColor=white)  
 
 ---
 
 ## 🌐 Links  
-- 🔗 [Personal Website / Portfolio](https://sites.google.com/view/jhon-mark-galochino)  
-- 📧 [Email me](mailto:jhonmarkgalex68@gmail.com)  
+- 🌍 [**Personal Portfolio / Google Site**](https://sites.google.com/view/jhon-mark-galochino)  
+- 💼 [**Canvas Dashboard Lab**](https://canvas.instructure.com/courses/13059782/pages/about-jm)  
+- ✉️ [**Email Me**](mailto:jhonmarkgalex68@gmail.com)  
 
 ---
 
@@ -42,6 +50,14 @@ I balance studies, overseas work, and entrepreneurship.
 - 📊 **Strategic Plan Presentation** – JMJ Electrical & Rice Retailing  
 - 🧑‍🤝‍🧑 **Human Resource Plan** – Inspired by Dunkin’ best practices  
 - 🌍 **International Business & Trade Projects** – Academic outputs  
+
+### 💻 Canvas Dashboard Lab  
+A responsive business dashboard project created using **HTML/CSS** inside *Canvas LMS*, inspired by my real operations at **JMJ Electrical & Rice Retailing**.  
+This project combines design, analytics, and entrepreneurship into one clean portfolio piece.  
+
+🔗 [**View Canvas Project →**](https://canvas.instructure.com/courses/13059782/pages/about-jm)
+
+🧠 *Core Skills:* HTML • CSS • Google Sites • Excel • Data Visualization • UI Design  
 
 ---
 
@@ -54,3 +70,19 @@ I balance studies, overseas work, and entrepreneurship.
 
 ## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=JMGalochino&theme=onedark&row=1&column=6)  
+
+---
+
+## 📌 Now / What I’m Building  
+- 🚀 Expanding **JMJ Electrical & Rice Retailing** — adding digital tracking and improving operations  
+- 🧱 Creating **HTML/CSS dashboard prototypes** for business and portfolio use  
+- ☕ Enhancing **customer service and daily reporting** at **Dunkin’ KSA**  
+- 💡 Exploring **freelance projects** in data entry, dashboards, and Google Sites design  
+
+---
+
+<p align="center">
+  Made with ❤️ by <b>Jhon Mark Galochino (JMJ)</b> · 
+  <a href="https://sites.google.com/view/jhon-mark-galochino">Portfolio</a> · 
+  <a href="mailto:jhonmarkgalex68@gmail.com">Email</a>
+</p>
