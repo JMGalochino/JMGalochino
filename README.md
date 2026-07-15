@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Jhon Mark L. Galochino Banner" width="100%" />
+  <img src="Banner New.png" alt="Jhon Mark L. Galochino Banner" width="100%" />
 </p>
 
 <h2 align="center">
